@@ -20,8 +20,6 @@ export default function Header() {
                             <FiSearch className="" />
                             <IoIosOptions />
                         </form>
-
-
                     </div>
 
                     <MdOutlineContactSupport className="flex" />
